@@ -13,6 +13,6 @@ Projects I maintain:
 * [tifm](https://github.com/Rexxt/tifm) (thinking of features to add)
 * [tifer](https://github.com/Rexxt/tifer) (working to add selection)
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,docker,github,git,powershell,visualstudio,vscode,discord,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,docker,css,html,r,git,powershell,visualstudio,vscode,discord,stackoverflow)](https://skillicons.dev)
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMuba&show_icons=true&theme=vision-friendly-dark&hide_border=0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMuba&theme=vision-friendly-dark&hide_border=0)](https://github.com/anuraghazra/github-readme-stats)
