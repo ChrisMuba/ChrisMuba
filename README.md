@@ -14,5 +14,5 @@ Projects I maintain:
 * [tifer](https://github.com/Rexxt/tifer) (working to add selection)
 
 [![My Skills](https://skillicons.dev/icons?i=py,powershell,visualstudio,vscode,discord,stackoverflow)](https://skillicons.dev)
-![Mizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMubat&show_icons=true&theme=synthwave&hide_border=0)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMubat&show_icons=true&theme=synthwave&hide_border=0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMuba&theme=synthwave&hide_border=0)](https://github.com/chrismuba/github-readme-stats)
