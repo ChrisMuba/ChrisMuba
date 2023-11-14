@@ -15,10 +15,9 @@ Here are some of the projects I've worked on :
 * 
 <br>
 📚 Current Learning<br>
-
 I'm currently learning and experimenting AI/ML. My goal is to leverage AI/ML to unlock deeper insights from HR data.<br>
 I'm excited about the potential of these technologies and am eager to apply my learning to real-world projects.<br>
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,github,linux,docker,css,html,r,git,powershell,visualstudio,vscode,discord,stackoverflow)](https://skillicons.dev)
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMuba&show_icons=true&theme=vision-friendly-dark&hide_border=0)
