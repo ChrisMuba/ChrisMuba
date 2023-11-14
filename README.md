@@ -19,6 +19,11 @@ I'm currently learning and experimenting AI/ML. My goal is to leverage AI to unl
 I'm excited about the potential of these technologies and am eager to apply my learning to real-world projects.<br>
 <br>
 
+📫 How to reach me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chris-muba-io)
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=py,github,linux,docker,css,html,r,git,powershell,visualstudio,vscode,discord,stackoverflow)](https://skillicons.dev)
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisMuba&show_icons=true&theme=vision-friendly-dark&hide_border=0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMuba&theme=vision-friendly-dark&hide_border=0)](https://github.com/anuraghazra/github-readme-stats)
