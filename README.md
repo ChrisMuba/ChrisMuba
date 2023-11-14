@@ -1,5 +1,5 @@
 # About Me
-Hi there ! 👋 I'm Chris, an HR Data Analyst<br>
+Hi there ! 👋🏿 I'm Chris, an HR Data Analyst<br>
 
 I have 12 years of experience in data analysis including more the last 5+ years in HR data analysis and data-driven decision making.<br>
 I'm passionate about leveraging data to provide insights that improve organizational effectiveness and optimize overall performance.<br>
