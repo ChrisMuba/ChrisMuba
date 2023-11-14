@@ -1,5 +1,5 @@
-# Chris
-hello there!<br>
+# About Me
+Hi there ! 👋 I'm Chris, an HR Data Analyst<br>
 
 I'm a French tetris player, dev, designer, sporadic streamer/music producer and gamer.<br>
 Preferred pronouns? they/them (see [here](https://en.pronouns.page/@MizuOfficial))<br>
