@@ -4,6 +4,8 @@ Hi there ! 👋 I'm Chris, an HR Data Analyst<br>
 I have 12 years of experience in data analysis including more the last 5+ years in HR data analysis and data-driven decision making.<br>
 I'm passionate about leveraging data to provide insights that improve organizational effectiveness and optimize overall performance.<br>
 <br>
+Outside of work, I enjoy staying active by playing basketball and mountain biking. I also like to generate images by AI.<br>
+<br>
 Enough of that. Now, Github stuff.<br>
 Projects I maintain:
 * [Cambridge](https://github.com/MillaBasset/cambridge) (tetro has made nice stuff on their fork, we'll see what we can do with it)
