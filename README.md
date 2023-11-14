@@ -7,7 +7,9 @@ I'm passionate about leveraging data to provide insights that improve organizati
 Outside of work, I enjoy staying active by playing basketball and mountain biking. I also like to generate images by AI.<br>
 <br>
 Enough of that. Now, Github stuff.<br>
-📄 Projects :
+📄 Projects
+Here are some of the projects I've worked on:
+
 * [Cambridge](https://github.com/MillaBasset/cambridge) (tetro has made nice stuff on their fork, we'll see what we can do with it)
 * [Cambridge Launcher](https://github.com/Rexxt/cambridge-launcher) (working to put out a working version soon)
 * [HUMILIATION](https://github.com/Rexxt/humiliation-discord) and [Hachi](https://github.com/Rexxt/hachi-discord) (former is a quirky bot engine, latter is a generalist-and-splatoon-oriented bot using it)
