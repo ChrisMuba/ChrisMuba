@@ -15,7 +15,7 @@ Here are some of the projects I've worked on :
 * 
 
 📚 Current Learning<br>
-I'm currently learning and experimenting AI/ML. My goal is to leverage AI/ML to unlock deeper insights from HR data.<br>
+I'm currently learning and experimenting AI/ML. My goal is to leverage AI to unlock deeper insights from HR data.<br>
 I'm excited about the potential of these technologies and am eager to apply my learning to real-world projects.<br>
 <br>
 
