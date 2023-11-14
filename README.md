@@ -8,7 +8,7 @@ Outside of work, I enjoy staying active by playing basketball and mountain bikin
 <br>
 Enough of that. Now, Github stuff.<br>
 📄 Projects<br>
-Here are some of the projects I've worked on:
+Here are some of the projects I've worked on :
 
 * [Cambridge](https://github.com/MillaBasset/cambridge) (tetro has made nice stuff on their fork, we'll see what we can do with it)
 * [Cambridge Launcher](https://github.com/Rexxt/cambridge-launcher) (working to put out a working version soon)
