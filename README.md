@@ -18,7 +18,6 @@ Here are some of the projects I've worked on :
 I'm currently learning and experimenting AI/ML. My goal is to leverage AI to unlock deeper insights from HR data.<br>
 I'm excited about the potential of these technologies and am eager to apply my learning to real-world projects.<br>
 <br>
-
 📫 How to reach me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chris-muba-io)
