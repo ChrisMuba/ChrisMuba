@@ -10,7 +10,7 @@ Outside of work, I enjoy staying active by playing basketball and mountain bikin
 Here are some of the projects I've worked on :
 
 * [HR Data Generator](https://data-rh.streamlit.app/) (data generator to practice calculating HR indicators : turnover, attrition, cost per hire, etc. / Ongoing project)
-* [Statistics course applied to HR](https://cours-stats-rh.streamlit.app/) (Finished project)
+* [Statistics course applied to HR](https://cours-stats-rh.streamlit.app/) (Course on how to analyze and interpret statistical data to make informed HR decisions / Finished project)
 * [HUMILIATION](https://github.com/Rexxt/humiliation-discord) and [Hachi](https://github.com/Rexxt/hachi-discord) (former is a quirky bot engine, latter is a generalist-and-splatoon-oriented bot using it)
 * [Blazenet](https://github.com/Rexxt/blazenet) (working to get a good adblock ready)
 * [tifm](https://github.com/Rexxt/tifm) (thinking of features to add)
