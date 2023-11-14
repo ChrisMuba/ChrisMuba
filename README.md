@@ -1,8 +1,8 @@
 # About Me
 Hi there ! 👋 I'm Chris, an HR Data Analyst<br>
 
-I'm a French tetris player, dev, designer, sporadic streamer/music producer and gamer.<br>
-Preferred pronouns? they/them (see [here](https://en.pronouns.page/@MizuOfficial))<br>
+I have 12 years of experience in data analysis including more the last 5+ years in HR data analysis and data-driven decision making.<br>
+I'm passionate about leveraging data to provide insights that improve organizational effectiveness and optimize overall performance.<br>
 <br>
 Enough of that. Now, Github stuff.<br>
 Projects I maintain:
