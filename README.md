@@ -19,7 +19,6 @@ I'm currently learning and experimenting AI/ML. My goal is to leverage AI to unl
 I'm excited about the potential of these technologies and am eager to apply my learning to real-world projects.<br>
 <br>
 📫 How to reach me
-
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chris-muba-io)
 <br>
 
