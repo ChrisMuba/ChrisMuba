@@ -13,7 +13,7 @@ Here are some of the projects I've worked on :
 * [Statistics course applied to HR](https://cours-stats-rh.streamlit.app/) (Course on how to analyze and interpret data to make informed HR decisions / Finished project)
 * [Data Analyst Chart Gallery](https://graphique.streamlit.app/) (Visualize a chart and corresponding code snippets for Altair, Plotly, and Matplotlib. / Ongoing project)
 * 
-<br>
+
 📚 Current Learning<br>
 I'm currently learning and experimenting AI/ML. My goal is to leverage AI/ML to unlock deeper insights from HR data.<br>
 I'm excited about the potential of these technologies and am eager to apply my learning to real-world projects.<br>
