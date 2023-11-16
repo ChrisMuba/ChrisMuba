@@ -6,7 +6,7 @@ I'm passionate about leveraging data to provide insights that improve organizati
 <br>
 Outside of work, I enjoy staying active by playing basketball and mountain biking. I also like to generate images by AI.<br>
 <br>
-🛠📄 Projects<br>
+🛠📜 Projects<br>
 Here are some of the projects I've worked on :
 
 * [HR Data Generator](https://data-rh.streamlit.app/) (data generator to practice calculating HR indicators : turnover, attrition, cost per hire, etc. / Ongoing project)
