@@ -9,7 +9,7 @@ Outside of work, I enjoy staying active by playing basketball and mountain bikin
 🛠📜 Projects<br>
 Here are some of the projects I've worked on :
 
-* [HR Data Generator](https://data-rh.streamlit.app/) (data generator to practice calculating HR indicators : turnover, attrition, cost per hire, etc. / Ongoing project)
+* [HR Data Generator](https://data-rh.streamlit.app/) (data generator to practice calculating HR indicators : turnover, attrition, cost per hire, etc. / Finished project)
 * [Job Search Dashboard](https://job-search-tracker.streamlit.app/) (Set of metrics and visualizations about the job application process. / Ongoing project)
 * [Statistics course applied to HR](https://cours-stats-rh.streamlit.app/) (Course on how to analyze and interpret data to make informed HR decisions / Finished project)
 * [Data Analyst Chart Gallery](https://graphique.streamlit.app/) (Visualize a chart and corresponding code snippets for Altair, Plotly, and Matplotlib. / Ongoing project)
